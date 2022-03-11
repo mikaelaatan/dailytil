@@ -20,7 +20,7 @@ I shamelessly stole this idea from [jbranchaud/til](github.com/jbranchaud/til). 
 ---
 ### Docker
 - [Adding dependencies to usrlocal instead of virtualenv](/Docker/adding-dependencies-to-usrlocal-instead-of-virtualenv.md)
-
+- [Build the image first before starting](/Docker/build-first-before-up.md)
 ---
 ### Git
 
