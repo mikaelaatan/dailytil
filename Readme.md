@@ -39,10 +39,17 @@ I shamelessly stole this idea from [jbranchaud/til](github.com/jbranchaud/til). 
 
 ---
 ### Shell
+<<<<<<< HEAD
 * [Manage users and groups in Powershell](/Shell/manage-users-and-groups-in-windows-powershell.md)
 * [Manage users and groups in Linux Bash](/Shell/manage-users-and-groups-in-linux-bash.md)
 * [Managing permissions in Powershell](/Shell/permissions-in-windows-powershell.md)
 * [Managing permissions in Linux Bash](/Shell/permissions-in-linux-bash.md)
+=======
+* [Manage users and groups in Powershell](manage-users-and-groups-in-windows-powershell.md)
+* [Manage users and groups in Linux Bash](manage-users-and-groups-in-linux-bash.md)
+* [Managing permissions in Powershell](permissions-in-windows-powershell.md)
+* [Managing permissions in Linux Bash](permissions-in-linux-bash.md)
+>>>>>>> f55fbbbbb15496233b63f2c25286769d61e21f0f
 ---
 
 
