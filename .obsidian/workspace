@@ -1,0 +1,98 @@
+{
+  "main": {
+    "id": "0475a79355bbaf08",
+    "type": "split",
+    "children": [
+      {
+        "id": "c5fae896208e94dc",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "42de8c7b5797da28",
+    "type": "split",
+    "children": [
+      {
+        "id": "4fc849b4aa6f0348",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "52ebc5c1ef666a54",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "1fdfc17f3210b6bd",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "368fadef8d747854",
+    "type": "split",
+    "children": [
+      {
+        "id": "2718e02e270a6ddb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "142f22f562a116b5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "c5fae896208e94dc",
+  "lastOpenFiles": [
+    "Shell/open-txtfiles-using-notepad.md",
+    "Readme.md",
+    "Shell/permissions-in-linux-bash.md",
+    "Shell/run-python-instead-of-python3.md",
+    "Shell/permissions-in-windows-powershell.md",
+    "Git/view-remote-git-repository.md",
+    "Docker/build-first-before-up.md",
+    "Docker/adding-dependencies-to-usrlocal-instead-of-virtualenv.md",
+    "Browser/shifting-tabs-using-ctrl-number.md",
+    "AWS/copy-file-to-AWS-using-SCP-Linux-command.md"
+  ]
+}
